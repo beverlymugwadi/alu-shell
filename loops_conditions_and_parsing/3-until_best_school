@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Creating a script that uses an until loop
+#Creating a script that displays "Best School" 10 times using until loop
 x=0
 until [ $x -eq 10 ]
 do
